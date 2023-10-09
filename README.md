@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohjihun0913!
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning many coding languages.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning many programming languages.
 - 💞️ I’m looking to collaborate on my assignments.
 - 📫 Do you want to know how to reach me? Here is one way... : ohjihun0913@gmail.com
 
